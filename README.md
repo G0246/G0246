@@ -1,4 +1,4 @@
-# Test project
+# TEST README.md
 ```
   ____  ___ ____  _  _    __   
  / ___|/ _ \___ \| || |  / /_  
@@ -9,4 +9,4 @@
 ```
 
 ## About
-A simple personal project, currently in development, check back later.
+Hello there, currently new from here, nice to meet you!
