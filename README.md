@@ -6,6 +6,3 @@
  \____|\___/_____|  |_|  \___/ 
 
 ```
-
-## About
-Hello there, currently new from here, nice to meet you!
