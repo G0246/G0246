@@ -10,7 +10,8 @@
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
 
 ## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=G0246&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G0246&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=G0246&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Support Me
