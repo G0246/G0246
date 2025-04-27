@@ -10,9 +10,8 @@
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
 
 ## GitHub Stats
-[![GitHub Stats](https://github-readme-stats-five-self-57.vercel.app/api?username=G0246&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-five-self-57.vercel.app/api/top-langs?username=G0246&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-five-self-57.vercel.app/api?username=G0246&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" alt="G0246's GitHub stats" /></a> |	<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-five-self-57.vercel.app/api/top-langs?username=G0246&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&hide_border=true" alt="G0246's Top Languages" /></a> |
+| ------------- | ------------- |
 
 ## Support Me
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/veutexus) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/veutexus) 
