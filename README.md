@@ -10,7 +10,7 @@
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
 
 ## GitHub Stats
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-five-self-57.vercel.app/api?username=G0246&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" alt="G0246's GitHub stats" /></a> |	<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-five-self-57.vercel.app/api/top-langs?username=G0246&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&hide_border=true" alt="G0246's Top Languages" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-six-psi-55.vercel.app/api?username=G0246&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" alt="G0246's GitHub stats" /></a> |	<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-six-psi-55.vercel.app/api/top-langs?username=G0246&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&hide_border=true" alt="G0246's Top Languages" /></a> |
 | ------------- | ------------- |
 
 ## Support Me
